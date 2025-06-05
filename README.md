@@ -1,4 +1,4 @@
-# Waight Studios – App Showcase Website
+# Waight Studioss – App Showcase Website
 
 This website is ready to deploy on GitHub Pages. It includes a homepage, individual app pages, privacy policy, and contact info.
 
